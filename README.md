@@ -3,7 +3,9 @@ Welcome new recruits! Add a profile picture, full name, grade, and GitHub userna
 
 Profile Picture | Name | Grade | GitHub username
 ---|---|---|---
+
 | <img src="https://avatars3.githubusercontent.com/u/52587084?s=400&v=4" width=100/> | Rachel Young | 11 | rachelyoung10 |
+| <img src="https://avatars3.githubusercontent.com/u/24532836?s=460&v=4" width=100/> | Michael Zhang | 11 | mzhang00
 | <img src="https://avatars1.githubusercontent.com/u/52429488?s=400&v=4" width=100/> | Stephanie Fulcar | 11 | StephanieFulcar
 | <img src="https://avatars1.githubusercontent.com/u/24882287?s=400&v=4" width=100/> | Darius Jankauskas | 11 | DJankauskas |
 | <img src="https://avatars0.githubusercontent.com/u/52434711?s=400&v=4" width=100/> | Jacky Chen | 11 | jchen126 |
@@ -13,5 +15,12 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars2.githubusercontent.com/u/23643013?s=460&v=4" width=100/> | Kazi Jamal | 11 | kazijamal |
 | <img src="https://avatars2.githubusercontent.com/u/36079138?s=400&v=4" width=100/> | Kevin Chen | 11 | Kevin3719 |
 | <img src="https://avatars0.githubusercontent.com/u/42145698?s=460&v=4" width=100/> | Sandy Tan | 11 | sandytan10 |
+| <img src="https://avatars1.githubusercontent.com/u/52548364?s=400&v=4" width=100/> | Gerard Lin | 9 | glin22 |
+| <img src="https://avatars1.githubusercontent.com/u/52556265?s=460&v=4" width=100/> | Ryan Wang | 9 | RyanWang-beep |
+| <img src="https://avatars1.githubusercontent.com/u/33766046?s=400&v=4" width=100/> | Cynthia Or | 11 | cor10 |
+| <img src="https://avatars3.githubusercontent.com/u/52516296?s=400&v=4" width=100/> | Mary Shang | 11 | sshaang |
+| <img src="https://avatars2.githubusercontent.com/u/34371635?s=400&v=4" width=100/> | Minuk Kim | 11 | mkim01 |
+| <img src="https://avatars3.githubusercontent.com/u/21613202?s=460&v=4" width=100/> | Madelyn Mao | 11 | madelynxmao |
+| <img src="https://avatars0.githubusercontent.com/u/52611169?s=400&v=4" width=100/> | Moinak Das | 11 | mdas10 |
+| <img src="https://avatars3.githubusercontent.com/u/33766054?s=400&v=4" width=100/> | Taejoon Kim | 11 | tkim00 |
 
-=======
